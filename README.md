@@ -1,6 +1,6 @@
 # Google Powerpack Theme
 
-Here is a [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) that is inspired by Google's iOS Widgets's appearance and color scheme.
+Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) that is inspired by Google's iOS Widgets's appearance and color scheme.
 
 <a href="https://github.com/chrismessina/alfred-theme-google/raw/main/alfred-theme-google.zip" class="button">
   <bigger>Download Theme</bigger>
