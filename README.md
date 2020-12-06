@@ -14,11 +14,11 @@ Then download and unzip the file above, and double-click each `.alfredappearance
 
 ## Previews
 
-### Tempo (Light)
+### Google (Light)
 
 [![Google (Light) - Alfred Theme Preview](./assets/google-light.png)](./assets/google-light.png)
 
-### Tempo (Dark)
+### Google (Dark)
 
 [![Google (Dark) - Alfred Theme Preview](./assets/google-dark.png)](./assets/google-dark.png)
 
@@ -41,4 +41,4 @@ The inspiration for this theme are Google's iOS Widgets:
 
 This theme is unaffiliated with nor endorsed by Google, Inc.
 
-<a href="https://www.alfredforum.com/topic//">Alfred Forum link</a>.
+<a href="https://www.alfredforum.com/topic/16270-google-inspired-theme/">Alfred Forum link</a>.
