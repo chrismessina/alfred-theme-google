@@ -6,7 +6,7 @@ Here is an [Alfred Powerpack Theme](https://www.alfredapp.com/help/appearance/) 
 
 ## Installation
 
-This theme uses [Google Sans](https://www.typewolf.com/google-sans), which is [available for download](https://www.cufonfonts.com/font/google-sans) from Cufon Fonts. Download and install that first.
+This theme uses [Google Sans](https://www.typewolf.com/google-sans), which is [available for download](https://www.cufonfonts.com/font/google-sans) from Cufon Fonts (which calls it Google Sans but the font you will download is called Product Sans). Download and install that first.
 
 Then download and unzip the file above, and double-click each `.alfredappearance` file to install it.
 
